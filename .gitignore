@@ -1,2 +1,5 @@
 node_modules
-src/img
+src
+package
+package-lock
+gulpfile
