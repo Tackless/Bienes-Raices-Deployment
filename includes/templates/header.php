@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bienes Raices</title>
+    <link rel="shortcut icon" href="/build/img/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="/build/css/app.css">
 </head>
 <body>
