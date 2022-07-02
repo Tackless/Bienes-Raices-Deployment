@@ -40,7 +40,7 @@
             </nav>
         </div>
 
-        <p class="copyright"><a href="https://github.com/Tackless">Donovan WevP</a> - Bienes Raices | Todos los derechos reservados. 2022 &copy;</p>
+        <p class="copyright"><a target="_blank" href="https://www.donovan-webp.com">Donovan WebP</a> - Bienes Raices | Todos los derechos reservados. 2022 &copy;</p>
     </footer>
 
 
